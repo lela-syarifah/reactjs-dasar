@@ -1,0 +1,25 @@
+.all,
+.smua {
+  background-color: rgba(226, 212, 186, 0.247);
+}
+.thead {
+  background-color: rgba(138, 136, 132, 0.068);
+  color: black;
+}
+button {
+  border-radius: 5px;
+}
+.up {
+  background-color: rgba(169, 169, 169, 0.164);
+}
+.c {
+  background-color: rgba(220, 20, 60, 0.082);
+}
+.fg {
+  padding-bottom: 15px;
+}
+.btn {
+  background-color: rgba(132, 145, 156, 0.377);
+  color: black;
+  border: 1px solid black;
+}

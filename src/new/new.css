@@ -1,0 +1,41 @@
+thead {
+  background-color: rgba(105, 18, 18, 0.466);
+}
+h2 {
+  text-align: center;
+  padding-bottom: 10px;
+  font-family: monospace;
+}
+td,
+th {
+  font-family: monospace;
+}
+#hrg {
+  padding-top: 15px;
+}
+#ip {
+  margin-bottom: 700px;
+}
+.btn {
+  background-color: rgba(105, 18, 18, 0.466);
+  border-color: rgba(105, 18, 18, 0.466);
+  font-weight: bold;
+  color: black;
+}
+Form.Control :hover {
+  border-color: black;
+}
+.tabel {
+  width: 700px;
+}
+.mt-5 {
+  font-family: monospace;
+  width: 700px;
+}
+.mt-4 {
+  padding-right: 25px;
+  padding-left: 25px;
+}
+tbody :hover {
+  background-color: rgba(165, 42, 42, 0.034);
+}
